@@ -1,4 +1,6 @@
 # getting started
+Dice Game!
+![preview](preview.png)
 ## Rules 
 * Le jeu a 2 joueurs, jouant chacun leur tour
 * À chaque tour, un joueur lance un dés autant de fois qu'il souhaite. Chaque résultat est ajouté à son score `ROUND`.
